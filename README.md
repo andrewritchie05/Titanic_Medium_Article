@@ -4,6 +4,8 @@
 
 The Jupyter notebook extracts probabalistic racial/ethnic information from the names of passengers in the dataset, allowing you to train better models for the Kaggle competition.
 
+![Article screenshot](https://github.com/andrewritchie05/Titanic_Medium_Article/blob/main/pics/article_screenshot.PNG)
+
 ## A guide to the datasets in this repository:
 
 ### test/train.csv:
